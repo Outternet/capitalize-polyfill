@@ -1,6 +1,6 @@
 # capitalize-polyfill
 
-    npm install https://github.com/Outternet/node-capitalize
+    npm install https://github.com/Outternet/capitalize-polyfill
 
 A simple library to capitalize a string, Note: this is not based on offical spec.
 
