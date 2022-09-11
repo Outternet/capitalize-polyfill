@@ -1,12 +1,12 @@
-# node-capitalize
+# capitalize-polyfill
 
     npm install https://github.com/Outternet/node-capitalize
 
-A simple library to capitalize a string
+A simple library to capitalize a string, Note: this is not based on offical spec.
 
 ```javascript
 //somewhere early in your code or with other polyfills.
-import "node-capitalize";
+import "capitalize-polyfill";
 ```
 
 example
