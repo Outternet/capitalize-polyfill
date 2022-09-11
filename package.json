@@ -1,0 +1,12 @@
+{
+  "name": "node-capitalize",
+  "version": "1.0.0",
+  "description": "captilize a string in node",
+  "main": "./capitalize.js",
+  "types": "./capitalize.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Outernet",
+  "license": "MIT"
+}
