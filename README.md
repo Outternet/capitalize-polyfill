@@ -12,6 +12,6 @@ import "node-capitalize";
 example
 ```typescript
 "hello".capitalize() //Hello
-// or if you care concerended about furure spec
+// or if you are concerned about future spec.
 "hello".capitalizeOverride() //Hello
 ```
