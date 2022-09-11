@@ -1,7 +1,7 @@
 {
-  "name": "node-capitalize",
+  "name": "capitalize-polyfill",
   "version": "1.0.0",
-  "description": "captilize a string in node",
+  "description": "captilize a string",
   "main": "./dist/capitalize.js",
   "types": "./index.d.ts",
   "scripts": {
