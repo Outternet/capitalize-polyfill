@@ -23,4 +23,6 @@ function normalizeOptions(opts) {
   return opts || {};
 }
 
-String.prototype.capitalize = capitalize;
+// for future spec
+String.prototype.capitalize = String.prototype.capitalize || capitalize;
+String.prototype.capitalizeOverride = capitalize;
